@@ -1,7 +1,6 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  github: https://github.com/TuftsIntroDH/TuftsIntroDH.github.io/
   license: CC-BY-4.0
   open_access: true
   short_title: "Intro DH"
@@ -12,5 +11,4 @@ project:
 site:
   template: book-theme
   options:
-    favicon: public/favicon.ico
     logo_text: "Tufts Intro to DH"
