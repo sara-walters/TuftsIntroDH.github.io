@@ -1,6 +1,7 @@
 # To execute the code in our notebook
 altair
 matplotlib
+mystmd
 numpy
 vega_datasets
 
