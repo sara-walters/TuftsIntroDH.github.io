@@ -11,6 +11,6 @@ project:
     - pattern: "*.ipynb"
 site:
   template: book-theme
-  favicon: public/favicon.ico
   options:
+    favicon: public/favicon.ico
     logo_text: "Tufts Intro to DH"
