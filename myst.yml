@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: cf58ebae-6a0e-4148-a15a-335cb48db8b2
+  # description:
+  # keywords: []
+  # authors: []
+  # github: https://github.com/jupyter-book/mystmd-quickstart
+  license: CC-BY-4.0
+  open_access: true
+  short_title: "Intro DH"
+  title: "Tufts Intro DH"
+  toc:
+    - file: README.md
+    - pattern: "*.ipynb"
+site:
+  template: book-theme
+  options:
+    logo_text: "Tufts Intro to DH"
