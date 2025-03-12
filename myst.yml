@@ -2,14 +2,16 @@
 version: 1
 project:
   github: "https://github.com/TuftsIntroDH/TuftsIntroDH.github.io"
+  jupyter: true
   license: CC-BY-4.0
   open_access: true
   short_title: "Intro DH"
   title: "Tufts Intro DH"
   toc:
     - file: root.md
-    - pattern: "*.ipynb"
+    - pattern: "[0-9][0-9]_*.{ipynb,md}"
 site:
   template: book-theme
   options:
+    favicon: "assets/favicon.ico"
     logo_text: "Tufts Intro to DH"
