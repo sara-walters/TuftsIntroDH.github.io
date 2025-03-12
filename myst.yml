@@ -6,7 +6,7 @@ project:
   short_title: "Intro DH"
   title: "Tufts Intro DH"
   toc:
-    - file: index.md
+    - file: root.md
     - pattern: "*.ipynb"
 site:
   template: book-theme
