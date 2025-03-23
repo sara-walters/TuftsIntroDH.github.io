@@ -11,11 +11,20 @@ license:
 date: 2025-03-12
 ---
 
-
 # GIS (Geographical Information Systems)
 
-These guest-led classes will introduce you to GIS software and applications. We will be using [QGIS](https://docs.qgis.org/3.40/en/docs/gentle_gis_introduction/introducing_gis.html) a free and open-source platform for organizing and analyzing spatial information — the beating heart of any GIS application.
+Class during these days will be led by Carolyn Talmadge of the Tufts DataLab.
+
+These classes will introduce you to GIS software and applications. We will be using [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview), a commercial platform that Tufts makes available through an [online interface](https://access.tufts.edu/arcgis). 
+
+You might also be interested in [QGIS](https://www.qgis.org), a free and open-source platform for organizing and analyzing spatial information — the beating heart of any GIS application.
 
 QGIS provides a [Python API](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/), but we'll just be focusing on the main application for now — hence why this is a plain Markdown file and not a Jupyter notebook.
 
 If you want to get a head-start, follow the tutorial in the QGIS [documentation](https://docs.qgis.org/3.40/en/docs/gentle_gis_introduction/introducing_gis.html).
+
+## Readings
+
+- @Jasnow.EtAl2018
+
+- A Gentle Introduction to GIS: https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/
