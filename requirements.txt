@@ -10,3 +10,6 @@ jupyterlab_myst
 
 # To tokenize texts
 nltk
+
+# To strip notebook output before commiting
+pre-commit
