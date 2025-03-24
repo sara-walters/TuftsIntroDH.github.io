@@ -28,3 +28,10 @@ If you want to get a head-start, follow the tutorial in the QGIS [documentation]
 - @Jasnow.EtAl2018
 
 - A Gentle Introduction to GIS: https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/
+
+## Homework
+
+- Due before class on Wednesday, March 26: [Discussion 7 - GIS](https://canvas.tufts.edu/courses/64568/discussion_topics/537566)
+- Due before class on Monday, March 31: [GIS Lab](https://canvas.tufts.edu/courses/64568/assignments/500495)
+
+Using ArcGIS and the tutorials provided in class, design and deploy a small GIS application on either a book of Edward Gibbon's [History of the Decline and Fall of the Roman Empire](https://www.gutenberg.org/ebooks/731) or the [Catalog of Ships in the Iliad (Book 2, lines 484–877)](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng3:2.484-2.877).
